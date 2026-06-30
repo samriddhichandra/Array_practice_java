@@ -2,7 +2,7 @@
 
 A collection of Java programming practice problems and solutions for improving algorithmic thinking and coding skills.
 
-## 📚 About This Repository
+##  About This Repository
 
 This repository contains various Java practice problems covering fundamental concepts, data structures, algorithms, and problem-solving techniques. Each problem includes:
 
@@ -11,7 +11,7 @@ This repository contains various Java practice problems covering fundamental con
 - **Concepts Tested**: Key programming concepts involved
 - **Solution**: Working Java implementation
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -37,7 +37,7 @@ This repository contains various Java practice problems covering fundamental con
    java ClassName
    ```
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 java_practice/
@@ -53,7 +53,7 @@ Each Java file follows a consistent format:
 - Concepts being tested
 - Complete, compilable Java code
 
-## 📝 Problem Categories
+##  Problem Categories
 
 This repository covers various topics including:
 
@@ -64,7 +64,7 @@ This repository covers various topics including:
 - **Object-Oriented Programming**: Classes, inheritance, polymorphism
 - **Basic Programming**: Loops, conditionals, functions
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to add more practice problems! When adding a new problem, please follow this format:
 
@@ -101,25 +101,18 @@ public class ProblemName {
 - Follow Java naming conventions (PascalCase for classes, camelCase for variables/methods)
 - Ensure code is compilable and produces correct output
 
-## 📖 Learning Resources
+##  Learning Resources
 
 - [Java Documentation](https://docs.oracle.com/javase/tutorial/)
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/domains/java)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/java/)
 
-## 📄 License
-
-This project is open source and available for educational purposes.
-
-## 👤 Author
-
-**Samriddhi Chandra**
 
 - GitHub: [@samriddhichandra](https://github.com/samriddhichandra)
 
 ---
 
-**Happy Coding! 🚀**
+**Happy Coding! **
 
 *Consistent practice is the key to mastering programming. Keep solving, keep learning!*
